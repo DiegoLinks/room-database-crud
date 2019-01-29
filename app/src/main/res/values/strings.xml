@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room CRUD</string>
+    <string name="register">Register</string>
+    <string name="name">Name:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="exit">Exit</string>
+</resources>
